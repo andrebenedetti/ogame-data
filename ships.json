@@ -1,0 +1,11 @@
+[
+  {
+    "name": "lightFighter",
+    "type": "combat",
+    "structuralIntegrity": 4000,
+    "shieldStrength": 10,
+    "attackStrength": 50,
+    "speed": 12500,
+    "fuelUsage": 20
+  }
+]
